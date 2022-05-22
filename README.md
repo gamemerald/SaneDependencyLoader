@@ -7,7 +7,8 @@ Add a depends.json in your .minecraft folder!
 Here is an exmaple depends.json: 
 ```
 {
-  "examplemod-name": "https://examplesite.com/example.jar"
+  "examplemod-name": "https://examplesite.com/example.jar",
+  "otherexample": "https://cdn.therosite.xyz/jars/exmpalefooblah.jar"
 }
 ```
 
