@@ -9,7 +9,7 @@
     "Gamemerald"
   ],
   "contact": {
-    "website": "https://github.com/gamemerald",
+    "homepage": "https://github.com/gamemerald",
     "issues":  "https://github.com/gamemerald/SaneDependencyLoader/issues",
     "sources": "https://github.com/gamemerald/SaneDependencyLoader"
   },
@@ -27,7 +27,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "sanedeploader.mixins.json"
   ],
 
   "depends": {
