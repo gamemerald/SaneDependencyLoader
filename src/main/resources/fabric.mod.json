@@ -5,12 +5,13 @@
 
   "name": "Sane Dependency Loader",
   "description": "A Crap dependency loader (Downloader) mod!",
-  "website": "https://github.com/gamemerald/sane-dependency-loader",
   "authors": [
     "Gamemerald"
   ],
   "contact": {
-    "sources": "https://github.com/gamemerald/sane-dependency-loader"
+    "website": "https://github.com/gamemerald",
+    "issues":  "https://github.com/gamemerald/SaneDependencyLoader/issues",
+    "sources": "https://github.com/gamemerald/SaneDependencyLoader"
   },
 
   "license": "CC0-1.0",
