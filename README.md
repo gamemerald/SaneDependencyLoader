@@ -1,5 +1,6 @@
 # Sane Dependency Loader
 *A VERY* crappy dependency downloader (loader)
+You have my permission to modify my crappy code and use it in your modpack (you *shouldn't*)
 
 ## Usage
 Add a depends.json in your .minecraft folder!
