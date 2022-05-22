@@ -1,5 +1,5 @@
-# Sane Dependency Loader
-*A VERY* crappy dependency downloader (loader) <br>
+# (in)Sane Dependency Loader
+*A VERY* crappy (insane) dependency loader <br>
 Disclaimer: You have my permission to modify my crappy code and use it in your modpack (you *shouldn't*)
 
 ## Usage
