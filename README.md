@@ -1,9 +1,18 @@
-# Fabric Example Mod
+# (in)Sane Dependency Loader
+*A VERY* crappy (insane) dependency loader <br>
+Disclaimer: You have my permission to modify my crappy code and use it in your modpack (you *shouldn't*)
 
-## Setup
+## Usage
+Add a depends.json in your .minecraft folder!
+Here is an exmaple depends.json: 
+```
+{
+  "examplemod-name": "https://examplesite.com/example.jar"
+}
+```
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Oh no!
+You will notice that the following window pops up: <br>
+![Window](https://user-images.githubusercontent.com/77945842/169679895-3855010e-b98a-4243-bd4d-5173d488312e.PNG)
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Do not worry! This just means that mods have been newly added and you should just relaunch the game!
