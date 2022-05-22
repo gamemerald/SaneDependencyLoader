@@ -1,9 +1,14 @@
 # Fabric Example Mod
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Usage
+Add a depends.json in your .minecraft folder!
+Here is an exmaple depends.json: 
+```
+{
+  "examplemod-name": "https://examplesite.com/example.jar"
+}
+```
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
