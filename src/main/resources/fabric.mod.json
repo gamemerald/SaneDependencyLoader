@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "sanedeploader",
+  "version": "${version}",
+
+  "name": "Sane Dependency Loader",
+  "description": "A Crap dependency loader (Downloader) mod!",
+  "website": "https://github.com/gamemerald/sane-dependency-loader",
+  "authors": [
+    "Gamemerald"
+  ],
+  "contact": {
+    "sources": "https://github.com/gamemerald/sane-dependency-loader"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/sanedeploader/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "preLaunch": [
+      "io.gamemerald.sanedependencyloader.SaneDepLoader"
+    ],
+    "main": [
+      "io.gamemerald.sanedependencyloader.LaunchedStage"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
